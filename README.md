@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: TODO
 - ⚡ Fun fact: TODO
 -->
+- 🔭 Working on health monitoring devices!
+<!--
 - 🔭 I’m currently working on ML, and I am also interested in Biomedical engineering!
 - 🌱 I’m currently learning EE as an undergraduate.
 - 👯 I’m looking to collaborate on some interesting projects.
 - 🤔 I’m looking for help with python and C++, C# language.
 - 💬 Ask me about learning knowledge and coding!
+-->
