@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Yixun Hu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yixun-Hu&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yixun-Hu&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yixun-Hu)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Yixun-Hu/Yixun-Hu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: TODO
 - ⚡ Fun fact: TODO
 -->
-- 🔭 Working on health monitoring devices!
+<!-- - 🔭 Working on health monitoring devices!-->
 <!--
 - 🔭 I’m currently working on ML, and I am also interested in Biomedical engineering!
 - 🌱 I’m currently learning EE as an undergraduate.
