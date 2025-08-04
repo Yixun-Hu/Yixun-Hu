@@ -1,5 +1,8 @@
 # Hi there 👋
-## Personal intersts
+- 📫 How to reach me: yixunhu21@gmail.com
+- 👯 I’m looking to collaborate on some interesting projects
+- 💬 Ask me about learning knowledge and coding
+## Personal interests
 1. Health monitoring devices
 2. AI technology
 ## My Github Stats & Top Langs
