@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+## Personal intersts
+1. Health monitoring devices
+2. AI technology
+## My Github Stats & Top Langs
 ![Yixun Hu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yixun-Hu&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yixun-Hu&langs_count=8&hide=html,css&layout=compact)](https://github.com/aang13/github-radme-stats)
 
